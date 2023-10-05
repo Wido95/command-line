@@ -1,6 +1,6 @@
 # Command-line
 
-|¿Qué es?|
+*¿Qué es?*
 
 La línea de comando es una interfaz de texto para su computadora. Es un programa que recibe comandos, que pasa al sistema operativo de la computadora para que los ejecute.
 
@@ -8,7 +8,10 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 
 
 
+
 ![image](https://github.com/Wido95/command-line/assets/141326682/ee9c5f1f-e8dd-41a7-9f2f-8cca34b4799e)
+
+
 
 
 
