@@ -1,4 +1,4 @@
-# command-line
+# Command-line
 
 |¿Qué es?|
 
@@ -9,7 +9,7 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 
 
 
-https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png
+!https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png
 
 
 
