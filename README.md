@@ -8,8 +8,8 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 
 
 
+![image](https://github.com/Wido95/command-line/assets/141326682/ee9c5f1f-e8dd-41a7-9f2f-8cca34b4799e)
 
-[img]: [https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png](https://www.solvetic.com/uploads/monthly_02_2020/tutorials-9832-0-17209400-1582275160.png)
 
 
 |Los comandos más utilizados son|
@@ -23,4 +23,4 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 * cp: Sirve para copiar un archivo completo y crear uno nuevo con el nombre que decidas que deba tener.
 * find: Encuentra un archivo en el directorio dado y con las especificaciones dadas.
 
-Fuente: 4GEEKS
+Fuente: 4GEEKS.
