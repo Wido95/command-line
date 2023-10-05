@@ -9,9 +9,7 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 
 
 
-! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solvetic.com%2Ftutoriales%2Farticle%2F7384-como-borrar-archivos-directorios-linux-terminal%2F&psig=AOvVaw3ZbIKwYdqWrWEatmcIStS7&ust=1696601138190000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiD2fKJ34EDFQAAAAAdAAAAABAE)
-
-
+[img]: https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png
 
 
 |Los comandos más utilizados son|
