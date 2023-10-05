@@ -9,7 +9,7 @@ Desde la línea de comando, puede navegar a través de archivos y carpetas en su
 
 
 
-[img]: https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png
+[img]: [https://www.solvetic.com/uploads/monthly_04_2019/tutorials-9832-0-72483400-1554372669.png](https://www.solvetic.com/uploads/monthly_02_2020/tutorials-9832-0-17209400-1582275160.png)
 
 
 |Los comandos más utilizados son|
